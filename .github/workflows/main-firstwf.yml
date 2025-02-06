@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: SANTOSHP-LAPTOP
     steps:
         -  uses: actions/checkout@v4.2.2
 
